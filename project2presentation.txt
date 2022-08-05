@@ -1,0 +1,68 @@
+We developed a model that can predict the price of home with 81% accuracy 
+
+We tested multiple models and combinations and found sqft living and location 
+
+were the most important features in assesing home values. 
+
+
+
+The view on the property and grade recieved were also key features in determing price. 
+
+That means give us those 4 features and we can figure out the price of a home and only be off by about $50 thousand
+
+Armed with knowledge you could figure out your commissions and how much a home should be listed for! (Next slide)
+
+
+
+
+Here we can see an aerial view of Maple Valley. Each circle represents a 1/5. So for example. 
+
+Red is the 80-100% price range, purple is the 60-80%, blue is the 40-60%, and yellow is the bottom 20%. 
+
+These properties arent very expensive and would yield smaller commissions. (Next slide)
+
+
+
+
+
+
+But we can show you a hot market with numerious upper tier properties. 
+
+Remember red and purple represent the 60-100% price range. Green Lake always has listings. 
+
+It's proximity to Univesities could be why homeowners sell more often. Now to show you that, this is snapshot of 2015. (Next slide)
+
+
+
+
+
+
+For 2022 we see the same trend playing out. Just for reference, the median price of homes sold in zipcodes 
+
+neighboring Green Lake was 580k in 15 and today it's just over a million. 
+
+Our model is so accurate that it predicted the listing price of a typical home in Green Lake to be 960k. 
+
+These are the places Compass can focus their manpower and advertisting. Next Nic will dive into which areas 
+
+would make best use of marketing dollars and labor
+
+
+notes
+slide for how landed at the categorical variables from correlation 
+less words on data slide. content should be said 
+rename sqft_15 
+just call it correlation
+write it out proportion total numbers
+histogram plot correpsond 
+greenlake 
+number of home sold in that period 
+20% more home were sold 
+which zipcode had the most appreciation 
+
+
+
+
+
+
+
